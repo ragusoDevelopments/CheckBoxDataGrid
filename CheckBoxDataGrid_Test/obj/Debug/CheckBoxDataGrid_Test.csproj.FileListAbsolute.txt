@@ -1,0 +1,15 @@
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\bin\Debug\CheckBoxDataGrid_Test.exe.config
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\bin\Debug\CheckBoxDataGrid_Test.exe
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\bin\Debug\CheckBoxDataGrid_Test.pdb
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.csprojAssemblyReference.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\MainWindow.g.cs
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\App.g.cs
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test_MarkupCompile.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test_MarkupCompile.lref
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\MainWindow.baml
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.g.resources
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.Properties.Resources.resources
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.csproj.GenerateResource.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.csproj.CoreCompileInputs.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.exe
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid_Test\obj\Debug\CheckBoxDataGrid_Test.pdb

@@ -1,0 +1,13 @@
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\bin\Debug\CheckBoxDataGrid.dll
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\bin\Debug\CheckBoxDataGrid.pdb
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.csprojAssemblyReference.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid_MarkupCompile.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid_MarkupCompile.lref
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\Themes\Generic.baml
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.g.resources
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.Properties.Resources.resources
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.csproj.GenerateResource.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.csproj.CoreCompileInputs.cache
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.dll
+C:\work\CheckBoxDataGrid\CheckBoxDataGrid\obj\Debug\CheckBoxDataGrid.pdb
